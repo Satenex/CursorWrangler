@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursorWrangler", "CursorWrangler\CursorWrangler.csproj", "{7A92E5B0-CFAF-4182-B4EE-48C5F0E66CB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3FF0CE06-8D0E-45CA-B1E7-FA5E35766E7F}"
+	ProjectSection(SolutionItems) = preProject
+		CursorWrangler\cursor.ico = CursorWrangler\cursor.ico
+		CursorWranglerContext.Designer.cs = CursorWranglerContext.Designer.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A92E5B0-CFAF-4182-B4EE-48C5F0E66CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A92E5B0-CFAF-4182-B4EE-48C5F0E66CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A92E5B0-CFAF-4182-B4EE-48C5F0E66CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A92E5B0-CFAF-4182-B4EE-48C5F0E66CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {485A395A-2746-4CDA-8973-9CDEAAC121FD}
+	EndGlobalSection
+EndGlobal
