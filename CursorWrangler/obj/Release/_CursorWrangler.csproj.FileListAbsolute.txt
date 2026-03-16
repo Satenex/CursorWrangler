@@ -1,0 +1,6 @@
+F:\[SOFT]\CursorWrangler\_src_v3\CursorWrangler\bin\Release\CursorWrangler.exe
+F:\[SOFT]\CursorWrangler\_src_v3\CursorWrangler\bin\Release\CursorWrangler.pdb
+F:\[SOFT]\CursorWrangler\_src_v3\CursorWrangler\obj\Release\_CursorWrangler.csproj.AssemblyReference.cache
+F:\[SOFT]\CursorWrangler\_src_v3\CursorWrangler\obj\Release\_CursorWrangler.csproj.CoreCompileInputs.cache
+F:\[SOFT]\CursorWrangler\_src_v3\CursorWrangler\obj\Release\CursorWrangler.exe
+F:\[SOFT]\CursorWrangler\_src_v3\CursorWrangler\obj\Release\CursorWrangler.pdb
